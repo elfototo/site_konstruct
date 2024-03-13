@@ -344,7 +344,7 @@ img {
 .Newsletter {
     background-color: #171819;
     padding-top: 30px;
-    padding-bottom: 100px;
+    padding-bottom: 30px;
 }
 .Newsletter__flex {
     display: flex;
